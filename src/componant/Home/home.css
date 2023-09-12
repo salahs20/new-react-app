@@ -1,0 +1,21 @@
+#home{
+    height: 80vh;
+    background-color: #1abc9c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.img{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.img img{
+    width: 250px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    
+}

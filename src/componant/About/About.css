@@ -1,0 +1,7 @@
+#all-about{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    background-color: #1abc9c;
+    color: white;
+}
